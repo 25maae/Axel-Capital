@@ -1,6 +1,8 @@
 footer{
     background-color: black;
     padding-top: 20px;
+    width: 666px;
+    padding-left: 20px;
 }
 p{
     color: aliceblue;
@@ -8,6 +10,9 @@ p{
     font-size: 42px;
 }
 h1{
-    font-size: 110px;
+    font-size: 115px;
     font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    display: block;
 }
