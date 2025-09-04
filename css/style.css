@@ -1,8 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 footer{
     background-color: black;
     padding-top: 20px;
-    width: 666px;
+    width: 686px;
     padding-left: 20px;
+    padding-bottom: 20px;
 }
 p{
     color: aliceblue;
